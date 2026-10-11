@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kr.jbnu.junsu.webservice02.Webservice02ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-10-09T06:08:28.617Z" hostname="JUNSU" time="1.69">
+  <properties/>
+  <testcase name="contextLoads()" classname="kr.jbnu.junsu.webservice02.Webservice02ApplicationTests" time="0.438"/>
+  <system-out><![CDATA[15:08:28.744 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [kr.jbnu.junsu.webservice02.Webservice02ApplicationTests]: Webservice02ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:08:28.812 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration kr.jbnu.junsu.webservice02.Webservice02Application for test class kr.jbnu.junsu.webservice02.Webservice02ApplicationTests
+15:08:28.875 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [kr.jbnu.junsu.webservice02.Webservice02ApplicationTests]: Webservice02ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:08:28.876 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration kr.jbnu.junsu.webservice02.Webservice02Application for test class kr.jbnu.junsu.webservice02.Webservice02ApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.1.1)
+
+2026-10-09T15:08:29.101+09:00  INFO 20292 --- [webservice-02] [    Test worker] k.j.j.w.Webservice02ApplicationTests     : Starting Webservice02ApplicationTests using Java 17.0.20.1 with PID 20292 (started by khlee in C:\Users\khlee\IdeaProjects\webservice-02)
+2026-10-09T15:08:29.102+09:00  INFO 20292 --- [webservice-02] [    Test worker] k.j.j.w.Webservice02ApplicationTests     : No active profile set, falling back to 1 default profile: "default"
+2026-10-09T15:08:29.859+09:00  INFO 20292 --- [webservice-02] [    Test worker] k.j.j.w.Webservice02ApplicationTests     : Started Webservice02ApplicationTests in 0.91 seconds (process running for 1.972)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
